@@ -1,1 +1,3 @@
 # Breast Cancer Statistical Analysis and Classification
+
+In this project, I analysed the BreastCancer data set which concerns characteristics of breast tissue samples collected from 699 women in Wisconsin using fine needle aspiration cytology (FNAC). The aim of this analysis was to create multiple classifiers based on the nine cytological characteristics to predict the tumour class which is the “Class” column in the BreastCancer data set. 
